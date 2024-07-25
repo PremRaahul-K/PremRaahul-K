@@ -10,7 +10,7 @@
 
 ## 🌟 About Me
 
-Passionate about crafting web experiences that are both functional and beautiful. As a **Full-Stack Web Developer**, I specialize in building scalable applications using **React**, **.NET Core**, and **Python**. I thrive on challenges and am always eager to learn new technologies. My goal is to contribute to impactful projects and grow alongside a dynamic team.
+I'm a dedicated **Full-Stack Web Developer** with a strong foundation in **React**, **.NET Core**, and **Python**. I enjoy solving complex problems and building applications that make a difference. My journey in tech is driven by a passion for continuous learning and innovation.
 
 ---
 
@@ -30,17 +30,22 @@ Passionate about crafting web experiences that are both functional and beautiful
 
 ---
 
-## 🚀 Projects
+## 📊 GitHub Stats
 
-### 📈 Investment Search Engine
-- **Stack:** React, C#, ASP.NET, MS SQL
-- **Description:** A comprehensive platform offering real-time stock data, analysis, and insights.
-- **Features:** Scalable microservices architecture for efficient data handling and performance.
+![Prem Raahul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=premraahul&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=premraahul&layout=compact&theme=radical)
 
-### ✈️ Make Your Trip
-- **Stack:** React, C#, ASP.NET, MS SQL
-- **Description:** A user-friendly travel booking platform.
-- **Features:** Seamless booking experience with cloud-based development using Azurite Emulator.
+---
+
+## 🔥 Streak Stats
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=premraahul&theme=radical)](https://git.io/streak-stats)
+
+---
+
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=premraahul&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
