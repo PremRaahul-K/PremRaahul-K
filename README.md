@@ -32,20 +32,20 @@ I'm a dedicated **Full-Stack Web Developer** with a strong foundation in **React
 
 ## 📊 GitHub Stats
 
-![Prem Raahul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=premraahul&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=premraahul&layout=compact&theme=radical)
+![Prem Raahul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PremRaahul-K&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PremRaahul-K&layout=compact&theme=radical)
 
 ---
 
 ## 🔥 Streak Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=premraahul&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PremRaahul-K&theme=radical)](https://git.io/streak-stats)
 
 ---
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=premraahul&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=PremRaahul-K&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
