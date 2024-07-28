@@ -2,7 +2,7 @@
 
 **Full-Stack Web Developer | Tech Enthusiast | Lifelong Learner**
 
-🌍 **Location:** Chittoor, Andhra Pradesh, India  
+🌍 **Location:** India  
 📧 **Email:** [raahulreddy99@gmail.com](mailto:raahulreddy99@gmail.com)  
 🔗 **LinkedIn:** [Prem Raahul](https://www.linkedin.com/in/premraahul/)
 
