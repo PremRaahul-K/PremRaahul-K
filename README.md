@@ -3,7 +3,7 @@
 **Full-Stack Web Developer | Tech Enthusiast | Lifelong Learner**
 
 🌍 **Location:** India  
-📧 **Email:** [raahulreddy99@gmail.com](mailto:raahulreddy99@gmail.com)  
+📧 **Email:** [thisisraahulreddy@gmail.com](mailto:thisisraahulreddy@gmail.com)  
 🔗 **LinkedIn:** [Prem Raahul](https://www.linkedin.com/in/premraahul/)
 
 ---
